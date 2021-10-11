@@ -2,9 +2,9 @@ package command
 
 import domain.MusicCollection
 import domain.MusicComposition
-import domain.datagen.beautify
-import domain.datagen.dataLocation
-import domain.datagen.toJson
+import domain.utility.beautify
+import domain.utility.dataLocation
+import domain.utility.toJson
 import java.io.File
 import kotlin.system.exitProcess
 

@@ -1,4 +1,4 @@
-package domain.datagen
+package domain.utility
 
 import com.google.gson.Gson
 import com.google.gson.GsonBuilder
