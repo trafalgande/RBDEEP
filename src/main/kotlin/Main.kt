@@ -1,6 +1,6 @@
 import command.CommandResolver
-import domain.datagen.dataLocation
-import domain.datagen.fromJson
+import domain.utility.dataLocation
+import domain.utility.fromJson
 
 fun main(args: Array<String>) {
     val data = dataLocation().fromJson()
